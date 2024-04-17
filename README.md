@@ -1,4 +1,4 @@
-# Proyects
+# Proyectos
 Una recopilación de los proyectos individuales en los que he trabajado
 
 Porfavor asegurese de cargar las bases de datos sql para poder usar los proyectos correctamente
