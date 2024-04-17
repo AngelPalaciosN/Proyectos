@@ -1,0 +1,7 @@
+Acceda al perfil de administrador con estas credenciales:
+
+correo: Admin@gmail.com
+
+pass:admin
+
+
